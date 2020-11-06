@@ -76,7 +76,7 @@ If this English version of the Character Guideline conflict to the Japanese vers
 
 以下のアセットがプロジェクトに使用されています。
 
-それぞれのアセットの利用規約は、それぞれのアセットの利用規約にしたがってください。
+それぞれのアセットの利用につきましては、それぞれのアセットの利用規約にしたがってください。
 
 * UnityChanSpringBone
   * [https://github.com/unity3d-jp/UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone)
