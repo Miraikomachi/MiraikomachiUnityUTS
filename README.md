@@ -1,6 +1,6 @@
 # ミライ小町Unityプロジェクト Unity-Chan Toon Shader 2.0
 
-![Screenshot](https://github.com/Miraikomachi/MiraikomachiUnity/blob/master/ScreenShots/ss001.png "Screenshot")
+![Screenshot](https://github.com/Miraikomachi/MiraikomachiUnityUTS/blob/master/ScreenShots/ss001.png "Screenshot")
 
 ミライ小町オリジナルソング「ミライ」のミュージックビデオで使用したキャラクターモデルとダンスモーション、楽曲データを入れたUnity向けプロジェクトです。
 
