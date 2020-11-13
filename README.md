@@ -1,6 +1,6 @@
 # ミライ小町Unityプロジェクト Unity-Chan Toon Shader 2.0
 
-![Screenshot](https://github.com/Miraikomachi/MiraikomachiUnity/blob/master/ScreenShots/ss001.png "Screenshot")
+![Screenshot](https://github.com/Miraikomachi/MiraikomachiUnityUTS/blob/main/ScreenShots/ss001.png "Screenshot")
 
 ミライ小町オリジナルソング「ミライ」のミュージックビデオで使用したキャラクターモデルとダンスモーション、楽曲データを入れたUnity向けプロジェクトです。
 
@@ -76,7 +76,7 @@ If this English version of the Character Guideline conflict to the Japanese vers
 
 以下のアセットがプロジェクトに使用されています。
 
-それぞれのアセットの利用規約は、それぞれのアセットの利用規約にしたがってください。
+それぞれのアセットの利用につきましては、それぞれのアセットの利用規約にしたがってください。
 
 * UnityChanSpringBone
   * [https://github.com/unity3d-jp/UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone)
