@@ -2,11 +2,13 @@
 
 ![Screenshot](https://github.com/Miraikomachi/MiraikomachiUnityUTS/blob/main/ScreenShots/ss001.png "Screenshot")
 
+![Screenshot](https://github.com/Miraikomachi/MiraikomachiUnityUTS/blob/main/ScreenShots/ss002.png "Screenshot")
+
 ミライ小町オリジナルソング「ミライ」のミュージックビデオで使用したキャラクターモデルとダンスモーション、楽曲データを入れたUnity向けプロジェクトです。
 
 ## Unity version
 
-Unity 2019.4.f1 or later
+Unity 2019.4.21f1 or later
 
 ## License
 
