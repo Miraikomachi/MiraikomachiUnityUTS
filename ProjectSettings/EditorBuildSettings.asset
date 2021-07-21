@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/mirai.unity
+    guid: f82519d0d488f854187670aee8a249b5
+  - enabled: 1
+    path: Assets/Scenes/swimwear.unity
+    guid: 847a2fa9df9a588449cb9a6cb476b0b5
   m_configObjects: {}
