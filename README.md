@@ -8,7 +8,7 @@
 
 ## Unity version
 
-Unity 2019.4.21f1 or later
+Unity 2021.3.13f1 or later
 
 ## License
 
